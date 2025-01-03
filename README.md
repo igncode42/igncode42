@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋  Soy Ignacio / igncode42 </h1>
 <h2>Sobre mi</h2>
+<br>
 
 <!--Intro start-->
 <p align="left">
