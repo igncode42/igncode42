@@ -17,7 +17,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,css,html,js,nodejs,mysql,git,github,vscode,linux,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,mysql,git,github,vscode,linux,ps&perline=12" />
   </a>
   <p align="left">
 <a href="https://www.linkedin.com/in/ignacio-salas-09759a2a5/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="igncode42"/></a>
