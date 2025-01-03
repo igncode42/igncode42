@@ -17,7 +17,7 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >👨🏻‍💻 Tecnologías conocidas</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -26,3 +26,9 @@
 </p>
 <br>
 <!-------------------------->
+
+<h2>📜 Certificados</h2>
+<p><strong>🎓 Ciberseguridad</strong>: Realicé un curso de <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank" style="color: blue;">Ciberseguridad de Google</a> que cubre temas esenciales sobre protección de redes, hacking ético, y mejores prácticas de seguridad.</p>
+<p>🎓 El certificado esta en <a href="https://coursera.org/share/cb513a408ab501236d7737f92ad61f1b" target="_blank" style="color: blue;">este enlace de Coursera</a>.</p>
+
+
