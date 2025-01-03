@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋  Soy Ignacio / igncode42 </h1>
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mi</h2>
+
 <!--Intro start-->
 <p align="left">
 🎓 Soy un desarrollador con un enfoque en crecimiento autodidacta y un constante deseo de aprender y mejorar. Actualmente, me encuentro en la fase final de mi formación, con solo 1 año restante para completar mis estudios, por lo cual me encuentro desarrollando mis conocimientos al máximo aprendiendo constantemente y con disciplina. 💻
