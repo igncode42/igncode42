@@ -31,4 +31,8 @@
 <p><strong>🎓 Ciberseguridad</strong>: Realicé un curso de <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank" style="color: blue;">Ciberseguridad de Google</a> que cubre temas esenciales sobre protección de redes, hacking ético, y mejores prácticas de seguridad.</p>
 <p>🎓 El certificado esta en <a href="https://coursera.org/share/cb513a408ab501236d7737f92ad61f1b" target="_blank" style="color: blue;">este enlace de Coursera</a>.</p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/igncode42.png" alt="Your Image Badge" />
+
+
+
 
